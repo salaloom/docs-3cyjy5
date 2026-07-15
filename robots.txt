@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-r37xif.rtb-system.online/sitemap.xml
